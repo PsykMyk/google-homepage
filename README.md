@@ -1,0 +1,2 @@
+*New Project:
+This project will show my ability to recreate a pre existing website with the use of HTML and CSS tools. From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)*
